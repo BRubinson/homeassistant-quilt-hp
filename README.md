@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/banner.svg" alt="Quilt Home Assistant Integration" width="100%">
+  <img src="https://raw.githubusercontent.com/eman/homeassistant-quilt-hp/main/images/banner.svg" alt="Quilt Home Assistant Integration" width="100%">
 </p>
 
 [![Validate](https://github.com/eman/homeassistant-quilt-hp/actions/workflows/validate.yml/badge.svg)](https://github.com/eman/homeassistant-quilt-hp/actions/workflows/validate.yml)
