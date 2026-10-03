@@ -8,6 +8,6 @@
   "iot_class": "cloud_push",
   "issue_tracker": "https://github.com/eman/homeassistant-quilt-hp/issues",
   "loggers": ["quilt_hp"],
-  "requirements": ["quilt-hp-python>=0.5.7"],
-  "version": "6.0.2"
+  "requirements": ["quilt-hp-python @ https://github.com/BRubinson/quilt-hp-python/archive/ab8be10ed31f820920994ced451ae5d65aed737a.zip"],
+  "version": "6.0.2.1"
 }

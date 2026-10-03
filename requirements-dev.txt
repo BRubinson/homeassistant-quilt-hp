@@ -1,5 +1,5 @@
 homeassistant>= 2026.8.0
-quilt-hp-python>=0.5.7
+quilt-hp-python @ https://github.com/BRubinson/quilt-hp-python/archive/ab8be10ed31f820920994ced451ae5d65aed737a.zip
 pytest>=7.4
 pytest-asyncio>=0.23
 pytest-homeassistant-custom-component>=0.13
